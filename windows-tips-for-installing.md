@@ -2,7 +2,7 @@
 description: Tips and Tricks. This is for windows
 ---
 
-# Tips for installing
+# Windows Installation Instructions
 
 ## Getting Yearn Exporter Working
 
